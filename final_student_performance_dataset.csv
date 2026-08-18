@@ -1,0 +1,51 @@
+Student_ID,Name,City,Gender,Age,Subject,Marks,Attendance
+1001,Student_1,Bangalore,Female,18,Python,71.0,65.0
+1002,Student_2,Chennai,Male,21,SQL,96.0,91.0
+1003,Student_3,Mumbai,Female,21,SQL,57.0,63.0
+1004,Student_4,Chennai,Male,21,Data Analysis,85.0,70.0
+1005,Student_5,Chennai,Female,22,SQL,47.0,76.0
+1006,Student_6,Delhi,Male,18,Python,83.0,97.0
+1007,Student_7,Mumbai,Female,22,Data Analysis,74.08510638297872,83.0
+1008,Student_8,Mumbai,Male,22,Python,52.0,64.0
+1009,Student_9,Mumbai,Male,18,Data Analysis,71.0,93.0
+1010,Student_10,Chennai,Female,18,Data Analysis,53.0,65.0
+1011,Student_11,Bangalore,Male,18,Java,81.0,81.0
+1012,Student_12,Mumbai,Female,18,Python,77.0,70.0
+1013,Student_13,Bangalore,Female,21,SQL,95.0,75.0
+1014,Student_14,Delhi,Female,20,SQL,86.0,92.0
+1015,Student_15,Bangalore,Female,20,Python,88.0,68.0
+1016,Student_16,Delhi,Female,18,SQL,68.0,65.0
+1017,Student_17,Bangalore,Female,20,SQL,59.0,75.0
+1018,Student_18,Chennai,Female,20,Python,98.0,88.0
+1019,Student_19,Kolkata,Female,18,Data Analysis,76.0,79.44897959183673
+1020,Student_20,Bangalore,Female,20,Python,76.0,79.0
+1021,Student_21,Delhi,Female,22,Data Analysis,68.0,95.0
+1022,Student_22,Chennai,Female,19,SQL,85.0,78.0
+1023,Student_23,Bangalore,Male,19,SQL,96.0,85.0
+1024,Student_24,Kolkata,Male,18,SQL,74.08510638297872,62.0
+1025,Student_25,Kolkata,Female,21,Java,93.0,78.0
+1026,Student_26,Mumbai,Female,18,Data Analysis,96.0,79.0
+1027,Student_27,Mumbai,Female,21,Java,56.0,91.0
+1028,Student_28,Delhi,Female,19,Java,83.0,66.0
+1029,Student_29,Bangalore,Female,18,Python,46.0,100.0
+1030,Student_30,Bangalore,Female,23,Java,47.0,92.0
+1031,Student_31,Mumbai,Female,22,Python,93.0,99.0
+1032,Student_32,Bangalore,Female,20,Python,81.0,98.0
+1033,Student_33,Bangalore,Male,21,Java,93.0,77.0
+1034,Student_34,Kolkata,Female,23,Data Analysis,61.0,99.0
+1035,Student_35,Bangalore,Male,20,Data Analysis,93.0,60.0
+1036,Student_36,Chennai,Female,20,Data Analysis,46.0,70.0
+1037,Student_37,Mumbai,Female,18,Data Analysis,46.0,87.0
+1038,Student_38,Chennai,Male,20,Data Analysis,72.0,84.0
+1039,Student_39,Kolkata,Female,22,Java,98.0,82.0
+1040,Student_40,Delhi,Male,23,Java,67.0,90.0
+1041,Student_41,Bangalore,Female,20,SQL,81.0,89.0
+1042,Student_42,Kolkata,Female,18,Data Analysis,74.08510638297872,94.0
+1043,Student_43,Bangalore,Male,22,Java,77.0,66.0
+1044,Student_44,Delhi,Female,19,SQL,45.0,75.0
+1045,Student_45,Delhi,Male,23,Data Analysis,63.0,85.0
+1046,Student_46,Kolkata,Female,20,Python,46.0,61.0
+1047,Student_47,Delhi,Male,18,SQL,97.0,60.0
+1048,Student_48,Chennai,Male,19,Java,88.0,71.0
+1049,Student_49,Delhi,Female,19,Python,70.0,64.0
+1050,Student_50,Bangalore,Female,21,Python,76.0,96.0
